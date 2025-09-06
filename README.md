@@ -26,7 +26,7 @@ It includes:
 |Tool/Library |	Purpose|
 |-------------|--------|
 |Python|	Core programming language|
-
+|------|---------------------------|
 |Pandas |	Data manipulation & cleaning|
 
 |Matplotlib |	Data visualization|
