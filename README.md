@@ -26,9 +26,13 @@ It includes:
 |Tool/Library |	Purpose|
 
 |Python|	Core programming language|
+
 |Pandas |	Data manipulation & cleaning|
+
 |Matplotlib |	Data visualization|
+
 |Scikit-learn|	Model building & evaluation|
+
 |Google Colab | Development & execution platform|
 
 
