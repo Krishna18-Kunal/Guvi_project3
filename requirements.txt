@@ -1,0 +1,12 @@
+# Requirements
+
+main Libraries
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+from sklearn.svm import SVC
+from xgboost import XGBClassifier
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.linear_model import LogisticRegression
