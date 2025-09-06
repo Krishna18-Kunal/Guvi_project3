@@ -10,3 +10,13 @@ from sklearn.svm import SVC
 from xgboost import XGBClassifier
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.linear_model import LogisticRegression
+
+
+
+
+Steps to Run the Code---->
+1)Install Python   python --version
+2)Create a Python File ------>heart.py
+Open any text editor (Notepad colab)
+3)Run the Code
+4)Observe the Output
